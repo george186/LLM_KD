@@ -1,0 +1,16 @@
+
+
+Tue Dec  9 16:44:55 2025
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.15.0-119-generic (#129-Ubuntu SMP Fri Aug 2 19:25:20 UTC 2024) x86_64
+Compiler: GCC 11.2
+ext2fs lib: 1.46.5, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.3
+Hard disk list
+
+No disk found
+
+TestDisk exited normally.
