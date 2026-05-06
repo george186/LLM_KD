@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"C:\\\\Users\\\\win\\\\.claude\\\\skills\")",
+      "Read(//c/Users/win/.claude/skills/**)"
+    ]
+  }
+}
