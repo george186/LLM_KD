@@ -7,9 +7,9 @@ from huggingface_hub import login
 #     'meta-llama/Llama-2-7b-hf',
 #     load_in_8bit=False,
 #     dtype=torch.float32,
-#     token="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",
+#     token="",
 # )
-# tokenizer = LlamaTokenizer.from_pretrained('meta-llama/Llama-2-7b-hf', token="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")
+# tokenizer = LlamaTokenizer.from_pretrained('meta-llama/Llama-2-7b-hf', token="")
 # tokenizer = AutoTokenizer.from_pretrained('gpt2-xl')
 
 # model = AutoModelForCausalLM.from_pretrained(
